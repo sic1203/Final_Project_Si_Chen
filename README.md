@@ -3,7 +3,7 @@
 
 This is the final project page for my **Telling Stories with Data** Class at Carnegie Mellon University.
 
-# ***Part I***    
+# ***Part 1***    
 **Outline**  
 Changes in current societies are affecting childhood experiences. Time for outdoor play is diminishing, contributing to more sedentary lifestyles, disconnected from the natural world. However, spending time outdoors and doing some physical activities participating has been attributed to improving a child’s short- and long-term well-being(Children’s Society, 2013). My main topic in this final project is that I want my audience to look at how children are spending their leisure time on sports and outdoor activities. As a reader, I want to reader get to know the importance of outdoor activities for children and know their children's' preference. Of their outdoor leisure activities, taking part in sport is by far the most popular among 8- to 15-year-olds. Boys spend significantly longer than girls on sport but interestingly, boys and girls who do participate in sport, enjoy it equally. I will use several graphs to visualize the whole data or some of interesting part to convey a vivid and clear data visualization to my audience.  
 
@@ -28,16 +28,28 @@ By inserting interesting pictures and our graphs, we can give our audience a bet
 
 I am hoping I can create excellent and meaningful data visualization to my audience in the next two weeks. Let's wait and see!
 
-Chart:  
-1. Gender   
-<iframe title="Chart: Children's Engagement by Gender" aria-describedby="" id="datawrapper-chart-GixPx" src="//datawrapper.dwcdn.net/GixPx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="203"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
-2. Age Group  
-<iframe title="Chart: Children's Engagement by Year Group (Copy)" aria-describedby="The difference between each year group among four different activities" id="datawrapper-chart-kczpz" src="//datawrapper.dwcdn.net/kczpz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="224"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+# ***Part 2***
+**First sketches and storyboards**
+![image](https://user-images.githubusercontent.com/42786352/52909311-ab0e6600-3254-11e9-84e7-990efcaa5d1a.png)
 
-3. Time  
+**User Research**
+I created a survey and critique form when I interwing my audience. Here are the research outcomes:
+ * User 1
+ ![image](https://user-images.githubusercontent.com/42786352/52909418-1442a900-3256-11e9-88e1-a68f5c9ef75d.png)
 
+ * User 2
+![image](https://user-images.githubusercontent.com/42786352/52909442-6daad800-3256-11e9-9157-9fafd46c7121.png)
 
+ * User 3
+ ![image](https://user-images.githubusercontent.com/42786352/52909455-9fbc3a00-3256-11e9-9791-90eae4e2b95c.png)
 
-![image](https://user-images.githubusercontent.com/42786352/52909257-eb211900-3253-11e9-8d58-f115a4c14aef.png)
+ * Critique From
+ ![image](https://user-images.githubusercontent.com/42786352/52909463-af3b8300-3256-11e9-9ba5-bc186d2c1a97.png)
+ 
+My target audience for this story is **young parents** and I want to my audience can know the importance of avoiding childhood obesity and finding a suitable outdoor activity for their children. My approach to identifying representative individuals to interview for this story is a face-to-face interview because this interview method is much convenient and accessible. However, the problem is, it is challenging for me to find young parents at the campus. Therefore, I asked some students that may have kids soon. My interview script is on the picture, I mainly asked about their ideas and their understanding of this story. My finding from my interviews is that most of the audience can understand my story quickly, but they want to dig the whole story into more. However, because of the time limit for my final presentation, I decided to do more research on this topic lately and re-create a new comprehensive story later.     
+Based on what my interviewee's opinion, I made some changes to my sketches. I mainly delete the second page and changed my data visualization type to make it more comparable.  
+
+**Revised Mockup**
+![image](https://user-images.githubusercontent.com/42786352/52909765-b022e380-325b-11e9-832f-e7881500281d.png)
 
