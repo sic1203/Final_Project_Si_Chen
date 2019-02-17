@@ -54,5 +54,5 @@ Based on what my interviewee's opinion, I made some changes to my sketches. I ma
 
 
 
-# Waiting for the final rpesentation ! YAY!
+# Waiting for the final presentation ! YAY!
 
