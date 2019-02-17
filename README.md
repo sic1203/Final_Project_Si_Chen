@@ -37,3 +37,5 @@ Chart:
 
 3. Time  
 <iframe src="file:///C:/Users/csvan/Downloads/gender%20-%20Copy/gender_-_Copy-1.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+
+![alt text](https://lh3.googleusercontent.com/k66YeYrPrK8D1nFuyw1mWa6f25eeKAe5AFZ9uhBS5WMvMLFZKmQRFak-0vXiWoG3A5M19dA748zQ1AjNTH8D_b9roedhmh_gfknKTuxlZYo0AYMAy_ZPGoaO1ZHZa0tMq28VRQmgjgRbjBsnv5w5xGAJHILSXhTJSRAAw5ySNFErMehh1E4LqqY4Xq8EsPUccFkbo2mnccY_-OAKub5pge3_KYpzVYQZoDjivXUXwfFaBGQtv32Y-GySiYHSCUMNWO2groXj2tQwR6eCmvTGEWo9YY9wrYaGDbS-aGXPJwHKia_eZj1vzn_U8L_4sbPiqnb52x_EXPebzu2wr4G6-jUa3er8ObPBGWJx8v6OPrS8O626pTUZ1_ioyJWrxIIuB_Gnn8Hq9FzhRbMMABrYP8uSl5wkI3N_K_RwUX-QhRVvA-OA4wETtnepF0ub_40gmrK3Ew_I4sokwbOiLmyci915B7Qs3J4_Q7oQ9lLSAoImmwwRCHVNFbEUx1WlQTFuRAtJiXL3JvG2zN70JJjE3RAWzv4V5u2NcYVFfqFqxAOxSQWQHWQnfqhlu-kY6X_qcn2L55fS0gqsKdDphHvGVABxYvAKFjqIGSxF5EoZJMpBGP4-zYQsWWF2VKqC6UmnNaBmtm9iy5TwLO5dYcuNxp99vFvD1lY=w712-h398-no)
