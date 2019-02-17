@@ -36,5 +36,8 @@ Chart:
 <iframe title="Chart: Children's Engagement by Year Group (Copy)" aria-describedby="The difference between each year group among four different activities" id="datawrapper-chart-kczpz" src="//datawrapper.dwcdn.net/kczpz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="224"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
 3. Time  
-![Screenshot](1mock.jpg)
-![alt text](https://lh3.googleusercontent.com/k66YeYrPrK8D1nFuyw1mWa6f25eeKAe5AFZ9uhBS5WMvMLFZKmQRFak-0vXiWoG3A5M19dA748zQ1AjNTH8D_b9roedhmh_gfknKTuxlZYo0AYMAy_ZPGoaO1ZHZa0tMq28VRQmgjgRbjBsnv5w5xGAJHILSXhTJSRAAw5ySNFErMehh1E4LqqY4Xq8EsPUccFkbo2mnccY_-OAKub5pge3_KYpzVYQZoDjivXUXwfFaBGQtv32Y-GySiYHSCUMNWO2groXj2tQwR6eCmvTGEWo9YY9wrYaGDbS-aGXPJwHKia_eZj1vzn_U8L_4sbPiqnb52x_EXPebzu2wr4G6-jUa3er8ObPBGWJx8v6OPrS8O626pTUZ1_ioyJWrxIIuB_Gnn8Hq9FzhRbMMABrYP8uSl5wkI3N_K_RwUX-QhRVvA-OA4wETtnepF0ub_40gmrK3Ew_I4sokwbOiLmyci915B7Qs3J4_Q7oQ9lLSAoImmwwRCHVNFbEUx1WlQTFuRAtJiXL3JvG2zN70JJjE3RAWzv4V5u2NcYVFfqFqxAOxSQWQHWQnfqhlu-kY6X_qcn2L55fS0gqsKdDphHvGVABxYvAKFjqIGSxF5EoZJMpBGP4-zYQsWWF2VKqC6UmnNaBmtm9iy5TwLO5dYcuNxp99vFvD1lY=w712-h398-no)
+
+
+
+![image](https://user-images.githubusercontent.com/42786352/52909257-eb211900-3253-11e9-8d58-f115a4c14aef.png)
+
