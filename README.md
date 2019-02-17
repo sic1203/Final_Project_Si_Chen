@@ -30,11 +30,11 @@ I am hoping I can create excellent and meaningful data visualization to my audie
 
 
 # ***Part 2***
-**First sketches and storyboards**
+**First sketches and storyboards**  
 ![image](https://user-images.githubusercontent.com/42786352/52909311-ab0e6600-3254-11e9-84e7-990efcaa5d1a.png)
 
-**User Research**
-I created a survey and critique form when I interwing my audience. Here are the research outcomes:
+**User Research**  
+I created a survey and critique form when I interwing my audience. Here are the research outcomes:  
  * User 1
  ![image](https://user-images.githubusercontent.com/42786352/52909418-1442a900-3256-11e9-88e1-a68f5c9ef75d.png)
 
@@ -45,11 +45,14 @@ I created a survey and critique form when I interwing my audience. Here are the 
  ![image](https://user-images.githubusercontent.com/42786352/52909455-9fbc3a00-3256-11e9-9791-90eae4e2b95c.png)
 
  * Critique From
- ![image](https://user-images.githubusercontent.com/42786352/52909463-af3b8300-3256-11e9-9ba5-bc186d2c1a97.png)
- 
+ ![image](https://user-images.githubusercontent.com/42786352/52909463-af3b8300-3256-11e9-9ba5-bc186d2c1a97.png)  
 My target audience for this story is **young parents** and I want to my audience can know the importance of avoiding childhood obesity and finding a suitable outdoor activity for their children. My approach to identifying representative individuals to interview for this story is a face-to-face interview because this interview method is much convenient and accessible. However, the problem is, it is challenging for me to find young parents at the campus. Therefore, I asked some students that may have kids soon. My interview script is on the picture, I mainly asked about their ideas and their understanding of this story. My finding from my interviews is that most of the audience can understand my story quickly, but they want to dig the whole story into more. However, because of the time limit for my final presentation, I decided to do more research on this topic lately and re-create a new comprehensive story later.     
 Based on what my interviewee's opinion, I made some changes to my sketches. I mainly delete the second page and changed my data visualization type to make it more comparable.  
 
-**Revised Mockup**
+**Revised Mockup**  
 ![image](https://user-images.githubusercontent.com/42786352/52909765-b022e380-325b-11e9-832f-e7881500281d.png)
+
+
+
+# Waiting for the final rpesentation ! YAY!
 
