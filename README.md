@@ -52,7 +52,6 @@ Based on what my interviewee's opinion, I made some changes to my sketches. I ma
 **Revised Mockup**  
 ![image](https://user-images.githubusercontent.com/42786352/52909765-b022e380-325b-11e9-832f-e7881500281d.png)
 
-
-
-# Waiting for the final presentation ! YAY!
+# ***Part 3***  
+[This is the link to my final deliverable, I used shorthand to present my whole sotry](https://carnegiemellon.shorthandstories.com/sichen1203/index.html)
 
