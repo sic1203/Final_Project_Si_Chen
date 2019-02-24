@@ -53,5 +53,25 @@ Based on what my interviewee's opinion, I made some changes to my sketches. I ma
 ![image](https://user-images.githubusercontent.com/42786352/52909765-b022e380-325b-11e9-832f-e7881500281d.png)
 
 # ***Part 3***  
+** Audience **    
+ * 1   
+ <img width="1396" alt="screen shot 2019-02-23 at 10 40 55 pm" src="https://user-images.githubusercontent.com/42786352/53294807-27a4c580-37bc-11e9-98b7-dfc524424242.png">
+ * 2
+ I tried to use many young parents playing with their kid's picture to attract my target audiences' attention and let them feel they have the same responsibility or duty to do these things for their children. 
+
+** Project Summarize **  
+In this project, I focused on the childhood obesity problem since I think Childhood overweight and obesity has been a public health problem. Obesity has been considered to result from lifestyle changes, especially in food consumption, physical activity, and sedentary tendencies, because the environment has grown more obesogenic in recent decades. Especially for children, with the development of the economy and the changing of lifestyle, they tend to have a more sedentary life than the adult. Reducing childhood obesity not only need help or promotion by the government, but it also needs the participation of each parent.     
+I start with a survey from the United Kingdom to show the preference of children' outdoor activities preferences to attract young parent's attention and let them know the importance of choosing suitable activities for their child to improve their children's physical activities participation. I used data visualization to show the difference between each category by gender, age, and time. I want to use the difference to indicate the preference between the different group.  
+
+** Final Story Link **  
 [This is the link to my final deliverable, I used shorthand to present my whole sotry](https://carnegiemellon.shorthandstories.com/sichen1203/index.html)
+
+** Reference for the whole project **  
+ * 1 Analysis conducted by the latest UK Harmonised European Time Use Survey which defines children as those aged 8 to 15 years  
+ * 2 Dataset:Children's Engagement with the Outdoors and Sports Activities." Office for National Statistics. Accessed February 10, 2019. https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/childrensengagementwiththeoutdoorsandsportsactivities  
+ * 3 World Health Organization. Global database on body mass index. Web site: www.who.int/mediacentre/factsheets/fs311/en/. Accessed February 10, 2015  
+ * 4 Gershuny, J., Sullivan, O. (2017). United Kingdom Time Use Survey, 2014-2015. [data collection]. UK Data Service. SN: 8128  
+ * 5 Natural England (2017) Monitor of Engagement with the Natural Environment: Exploring the Relationship between visit frequency and attitudes towards the natural environment  
+ * 6 Sport England (2016) Sport England: Towards an Active Nation, Strategy 2016-2021  
+ * 7 All image come from: https://www.pexels.com/
 
